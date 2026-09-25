@@ -1,0 +1,4 @@
+*.log
+pulp/pulp-riscv-gnu-toolchain/
+riscv/riscv-gnu-toolchain/
+astral/libs
