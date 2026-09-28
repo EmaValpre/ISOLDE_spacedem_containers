@@ -2,3 +2,6 @@
 pulp/pulp-riscv-gnu-toolchain/
 riscv/riscv-gnu-toolchain/
 astral/libs
+astral/astral
+match/plinio
+match/match
