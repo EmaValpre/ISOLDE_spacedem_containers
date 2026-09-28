@@ -46,7 +46,7 @@ Finally, build match and check for connection error in case the build fails.
 cd match
 source build_match.sh 
 ```
-To generate and compile the code used in the isolde space demonstrator, navigate in ```/opt/isolde/examples/targets/isolde```, then run:
+To generate and compile the code used in the isolde space demonstrator, navigate in ```/opt/match/examples/targets/isolde```, then run:
 ```bash
 python compile.py
 cd output && make build-host
